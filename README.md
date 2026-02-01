@@ -23,7 +23,7 @@ The dashboard focuses on attrition patterns across tenure, salary bands, and dep
 ---
 
 ## 📈 Dashboard Preview
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](dashboard_overview.png)
 
 ---
 
