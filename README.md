@@ -1,13 +1,13 @@
 # HR Analytics Dashboard – Employee Attrition Analysis
 
-## 📊 Project Overview
+##  Project Overview
 This project analyzes employee attrition using Power BI to identify key drivers of workforce turnover and support data-driven HR decision-making.
 
 The dashboard focuses on attrition patterns across tenure, salary bands, and departments, helping HR teams understand where retention risks are highest.
 
 ---
 
-## ❓ Business Questions Answered
+##  Business Questions Answered
 - What is the overall employee attrition rate?
 - Which tenure groups experience the highest attrition?
 - How does compensation impact employee turnover?
@@ -15,19 +15,19 @@ The dashboard focuses on attrition patterns across tenure, salary bands, and dep
 
 ---
 
-## 🧠 Key Insights
+## Key Insights
 - Attrition is highest among **New** and **Early** tenure employees, indicating onboarding and early engagement gaps.
 - Employees in the **Low salary band** show disproportionately higher attrition, suggesting compensation-driven risk.
 - Attrition rates decline steadily as employee tenure increases.
 
 ---
 
-## 📈 Dashboard Preview
+##  Dashboard Preview
 ![Dashboard Overview](dashboard_overview.png)
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - Power BI
 - Power Query (data cleaning & transformation)
 - DAX (measures & KPIs)
@@ -35,7 +35,7 @@ The dashboard focuses on attrition patterns across tenure, salary bands, and dep
 
 ---
 
-## 📁 Dataset
+##  Dataset
 Public dataset: *IBM HR Analytics – Employee Attrition & Performance*  
 (Source: Kaggle)
 
